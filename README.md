@@ -27,7 +27,7 @@ Below is the BibTex for citing this version of the code.
 
 
 This project contains the following folders: `data`, `results`, `src`. 
-- `data`：.
+- `data`：includes all data needed for the two use-cases used in the paper.
 - `results`: include the experimental results.  
 - `src`: include the source code. 
 
