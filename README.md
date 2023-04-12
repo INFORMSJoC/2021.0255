@@ -40,9 +40,3 @@ pip install -r requirements.txt
 ```
 
 
-
-
-
-
-## Replicating
-
