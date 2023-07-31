@@ -30,7 +30,7 @@ Below is the BibTex for citing this version of the code.
 
 ## Content
 
-Currently, this repository contains data ancd results used for the multistage portfolio optimization (MPO) and the multistage microgrid energy storage management (MESO) problems used in the paper. The source code, along with any future software development, will be publicly made available at this [link](https://github.com/cfcarnabiitkgp/2021-0255), pending information release approval from the Pacific Northwest National Laboratory (PNNL). 
+Currently, this repository contains data ancd results used for the multistage portfolio optimization (MPO) and the multistage microgrid energy storage management (MESO) problems used in the paper. The source code, along with any future software development, will be publicly made available pending information release approval from the Pacific Northwest National Laboratory (PNNL). 
 
 ### Data 
 
